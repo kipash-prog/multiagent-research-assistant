@@ -1,0 +1,9 @@
+Django>=4.2
+djangorestframework
+django-cors-headers
+requests
+python-dotenv
+langchain
+nltk
+transformers
+torch
