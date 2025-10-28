@@ -1,3 +1,5 @@
+<img width="1288" height="603" alt="image" src="https://github.com/user-attachments/assets/498b66a0-bc6c-4a45-90b4-f2b8e4000f17" />
+
 # Multiagent Research Assistant
 
  An end-to-end research assistant that gathers sources from the web and produces concise, high-quality summaries using an agentic backend.
