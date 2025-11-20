@@ -1135,8 +1135,7 @@ A: No, but it will significantly speed up summarization. PyTorch will automatica
 
 ## License
 
-MIT License (or update as appropriate for your project)
-
+MIT License
 ---
 
 ## Support & Contact
